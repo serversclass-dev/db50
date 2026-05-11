@@ -1,1 +1,20 @@
-{}
+{
+  "MaisMohammed": {
+    "username": "MaisMohammed",
+    "password": "0944326214@Ra",
+    "student_type": "علمي",
+    "telegram_user_id": "5456430066",
+    "telegram_username": "GojoKyojuro",
+    "telegram_first_name": "🖤Rana👑",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_53.jpg",
+    "session_id": "a756d208-5d83-4f8a-913e-9cb6d7142b9d",
+    "created_at": "2026-05-11T18:22:17.731382",
+    "verified": true,
+    "last_login": "2026-05-11T18:23:00.566978",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 50
+  }
+}
