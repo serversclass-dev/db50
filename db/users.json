@@ -16,5 +16,23 @@
       "islamic"
     ],
     "server_num": 50
+  },
+  "lili": {
+    "username": "lili",
+    "password": "Lili1010$",
+    "student_type": "علمي",
+    "telegram_user_id": "8183858333",
+    "telegram_username": null,
+    "telegram_first_name": "زهرة الجبل",
+    "profile_photo_url": null,
+    "session_id": "9e3a0357-5a91-472d-a5dc-df6df026b613",
+    "created_at": "2026-05-15T13:14:07.914047",
+    "verified": true,
+    "last_login": "2026-05-15T13:14:11.818467",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 50
   }
 }
